@@ -1,4 +1,4 @@
-# 
+# Inteligente Yi-Lightning plugins. Con agentes colaborativos y gestión de memoria — optimizado para el máximo rendimiento y eficiencia.
 
 
 
